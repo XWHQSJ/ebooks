@@ -1,0 +1,32 @@
+kgdbÃüÁî:
+
+set serial baud 115200
+target remote /dev/ttyS1
+handle SIGSEGV noprint nostop pass
+break kernel/module.c:3014
+c
+
+p mod->sect_attrs->nsections
+p mod->sect_attrs->attrs[1]->name
+p /x mod->sect_attrs->attrs[1]->address
+add-symbol-file ./PrintingDriver/PrintModule.ko 
+
+
+uml
+ps -ef | grep linux
+gdb ./linux
+handle SIGSEGV noprint nostop pass
+attach
+break kernel/module.c:3015
+continue
+
+set $ps&=~(1<<8)
+
+
+GRUB_CMDLINE_LINUX_DEFAULT="memmap=exactmap memmap=640K@0 memmap=896M@1M"
+"kernelcore=400M"
+
+break arch/x86/mm/fault.c:1028
+
+
+arch/x86/kernel/entry_64.S:1494

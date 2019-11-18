@@ -10,3 +10,16 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 2. 算法图解-中文版
 
 ## Compiler
+
+1. Parsing Techniques-a practical guid-英文版
+2. 编译原理（龙书）-第二版-中文版
+3. 自制编译器
+4. 自己手动写编译器、链接器
+
+## Cpp
+
+### C
+
+1. C专家编程-中文版
+
+### Cpp

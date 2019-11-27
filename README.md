@@ -99,11 +99,11 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 ### ML
 
 1. 凸优化
-   1. Adequacy of Solutions－英文版
-   2. Convex Optimization－英文版
-   3. L1L2-regularization－英文版
-   4. Lecture24－英文版
-   5. Optimization－英文版
+   - Adequacy of Solutions－英文版
+   - Convex Optimization－英文版
+   - L1L2-regularization－英文版
+   - Lecture24－英文版
+   - Optimization－英文版
 2. Advanced Machine Learning with Python－英文版
 3. Mastering Machine Learning with scikitlearn－英文版
 4. Python Machine Learning－英文版
@@ -128,19 +128,19 @@ R-intro－英文版
 ## OS
 
 1. Assembly
-   1. 《汇编语言(第3版) 》王爽著－中文版
-   2. 《汇编语言王爽(第2版)》课后答案－中文版
+   - 《汇编语言(第3版) 》王爽著－中文版
+   - 《汇编语言王爽(第2版)》课后答案－中文版
 2. 操作系统share
-   1. Buddy System及应用
-   2. linux段页存储
-   3. Seminar2.2
-   4. Unix OS的PCB分析
-   5. Unix PCB structure and queue discilpine
-   6. Unix PCB structure and queue discilpine
-   7. Unix进程死锁解决策略
-   8. unix进程调度策略
-   9. 操作系统2.3
-   10. 中断处理程序流程图(do_IRQ)
+   - Buddy System及应用
+   - linux段页存储
+   - Seminar2.2
+   - Unix OS的PCB分析
+   - Unix PCB structure and queue discilpine
+   - Unix PCB structure and queue discilpine
+   - Unix进程死锁解决策略
+   - unix进程调度策略
+   - 操作系统2.3
+   - 中断处理程序流程图(do_IRQ)
 3. 
 
 ## Security

@@ -83,45 +83,45 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 
 ### 1. DL
 
-1. 深度学习500问
-2. Bishop Pattern Recognition and Machine Learning－英文版
-3. Deep Learning with Python－英文版
-4. Grokking Deep Learning－英文版
-5. Hands On Reinforcement Learning with Python－英文版
-6. ISLR First Printing－英文版
-7. Learning From Data－英文版
-8. Neural Networks and Deep Learning－英文版
-9. PRML_模式识别与机器学习－中文版
-10. 动手学深度学习－中文版
-11. 深度学习入门：基于Python的理论与实现－中文版
-12. 神经网络与深度学习-3小时－中文版
+- 深度学习500问
+- Bishop Pattern Recognition and Machine Learning－英文版
+- Deep Learning with Python－英文版
+- Grokking Deep Learning－英文版
+- Hands On Reinforcement Learning with Python－英文版
+- ISLR First Printing－英文版
+- Learning From Data－英文版
+- eural Networks and Deep Learning－英文版
+- 模式识别与机器学习－中文版
+- 动手学深度学习－中文版
+- 深度学习入门：基于Python的理论与实现－中文版
+- 神经网络与深度学习-3小时－中文版
 
 ### 2. ML
 
-1. 凸优化
+- 凸优化
    - Adequacy of Solutions－英文版
    - Convex Optimization－英文版
    - L1L2-regularization－英文版
    - Lecture24－英文版
    - Optimization－英文版
-2. Advanced Machine Learning with Python－英文版
-3. Mastering Machine Learning with scikitlearn－英文版
-4. Python Machine Learning－英文版
-5. The Hundred-Page Machine Learning Book－英文版
-6. Understanding the Mathematics behind Gradient Descent－英文版
-7. 周志华-机器学习－中文版
-8. 统计学习方法－中文版
+- Advanced Machine Learning with Python－英文版
+- Mastering Machine Learning with scikitlearn－英文版
+- Python Machine Learning－英文版
+- The Hundred-Page Machine Learning Book－英文版
+- Understanding the Mathematics behind Gradient Descent－英文版
+- 周志华-机器学习－中文版
+- 统计学习方法－中文版
 
 ### 3. PL
 
-1. learn python the hard way－英文版
-2. Python项目开发实战－第2版－中文版
-3. 利用Python进行数据分析－中文版
-4. 《笨办法学 Python》－第4版－中文版
+- learn python the hard way－英文版
+- Python项目开发实战－第2版－中文版
+- 利用Python进行数据分析－中文版
+- 《笨办法学 Python》－第4版－中文版
 
 4. R-intro－英文版
 
-5 普林斯顿微积分读本－中文版
+5. 普林斯顿微积分读本－中文版
 
 6. 集体智慧编程中文版－中文版
 
@@ -141,7 +141,15 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
    - unix进程调度策略
    - 操作系统2.3
    - 中断处理程序流程图(do_IRQ)
-3. 
+3. 30天自制操作系统－中文版
+4. ORANGE'S 一个操作系统的实现－中文版
+5. Understanding_ELF－中文版
+6. minix－英文版
+7. os-dev－英文版
+8. x86汇编语言 从实模式到保护模式－中文版
+9. 从零开始写一个简单的操作系统－中文版
+10. 现代操作系统 - 第3版－中文版
+11. 自己动手写操作系统 - 完全版 －中文版
 
 ## Security
 

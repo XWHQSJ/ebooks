@@ -119,10 +119,9 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 - 利用Python进行数据分析－中文版
 - 《笨办法学 Python》－第4版－中文版
 
+
 4. R-intro－英文版
-
 5. 普林斯顿微积分读本－中文版
-
 6. 集体智慧编程中文版－中文版
 
 ## OS

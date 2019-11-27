@@ -56,33 +56,28 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 ### 电子科技大学Linux内核技术课程
 
 1. 李林老师课件
-   1. code
-   2. Linux内核01
-   3. Linux内核02
-   4. Linux内核03
-   5. Linux内核04
-   6. 内核调试命令
+   - code
+   - Linux内核01
+   - Linux内核02
+   - Linux内核03
+   - Linux内核04
+   - 内核调试命令
 2. 段翰聪老师课件
-   1. Intro
-   2. Arch_and_Kernels
-   3. Process & Threads
-   4. Linux Kernel Scheduling Framework Slides
-   5. Storage Devices & File_Systems
+   - Intro
+   - Arch_and_Kernels
+   - Process & Threads
+   - Linux Kernel Scheduling Framework Slides
+   - Storage Devices & File_Systems
 
-Linux Memory Address Mapping－中文版
-
-Linux内核源代码完全注释－第三版
-
-Unix内核源码剖析－中文版
-
-UNIX环境高级编程－第3版－中文版
-UNIX环境高级编程－第３版－英文版
-UNIX环境高级编程－第２版－中文版
-
-UNIX编程艺术－中文版
-
-深入理解Linux内核－第３版－中文版
-深入理解Linux内核－第３版－英文版
+3. Linux Memory Address Mapping－中文版
+4. Linux内核源代码完全注释－第三版
+5. Unix内核源码剖析－中文版
+6. UNIX环境高级编程－第3版－中文版
+   - UNIX环境高级编程－第３版－英文版
+   - UNIX环境高级编程－第２版－中文版
+7. UNIX编程艺术－中文版
+8. 深入理解Linux内核－第３版－中文版
+   - 深入理解Linux内核－第３版－英文版
 
 ## Machine Learning
 

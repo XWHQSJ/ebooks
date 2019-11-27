@@ -47,22 +47,22 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 
 ## Linux Kernel
 
-### Tools
+### 1. Tools
 
 1. Docker容器与容器云-第2版
 2. Learning GNU Emacs-第3版－英文版
 3. 图解HTTP
 
-### 电子科技大学Linux内核技术课程
+### 2. 电子科技大学Linux内核技术课程
 
-1. 李林老师课件
+- 李林老师课件
    - code
    - Linux内核01
    - Linux内核02
    - Linux内核03
    - Linux内核04
    - 内核调试命令
-2. 段翰聪老师课件
+- 段翰聪老师课件
    - Intro
    - Arch_and_Kernels
    - Process & Threads
@@ -81,7 +81,7 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 
 ## Machine Learning
 
-### DL
+### 1. DL
 
 1. 深度学习500问
 2. Bishop Pattern Recognition and Machine Learning－英文版
@@ -96,7 +96,7 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 11. 深度学习入门：基于Python的理论与实现－中文版
 12. 神经网络与深度学习-3小时－中文版
 
-### ML
+### 2. ML
 
 1. 凸优化
    - Adequacy of Solutions－英文版
@@ -112,18 +112,18 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 7. 周志华-机器学习－中文版
 8. 统计学习方法－中文版
 
-### PL
+### 3. PL
 
 1. learn python the hard way－英文版
 2. Python项目开发实战－第2版－中文版
 3. 利用Python进行数据分析－中文版
 4. 《笨办法学 Python》－第4版－中文版
 
-R-intro－英文版
+4. R-intro－英文版
 
-普林斯顿微积分读本－中文版
+5 普林斯顿微积分读本－中文版
 
-集体智慧编程中文版－中文版
+6. 集体智慧编程中文版－中文版
 
 ## OS
 

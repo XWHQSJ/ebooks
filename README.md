@@ -2,155 +2,504 @@
 
 A repository for collecting books， about C, C plus plus, Linux Kernel, Compiler, OS, Algorithm, ML and DL
 
-整个文件的结构将以下面形式展现，并对相关书籍教程做简单的介绍。
+整个文件的结构将以下面形式展现
 
-## Algorithm
-
-1. Algorithm-第四版-英文版 
-2. 算法图解-中文版
-
-## Compiler
-
-1. Parsing Techniques-a practical guid-英文版
-2. 编译原理（龙书）-第2版-中文版
-3. 自制编译器-中文版
-4. 自己手动写编译器、链接器-中文版
-
-## C & Cpp
-
-### C
-
-1. C专家编程-中文版
-2. C陷阱与缺陷-中文版
-3. C语言标准-英文版
-4. 啊哈C语言书-中文版
-5. 明解C语言-中文版
-6. Learn C the hard Way-英文版
-
-### Cpp
-
-1. Accelerated C++-中文版
-2. C++ Primer Plus-第5版-中文版
-3. C++ STL源代剖析-中文版
-4. C++ 标准程序库-中文版
-5. C++ Templates-中文版
-6. C++编程思想第一卷-中文版
-   C++编程思想第二卷-中文版
-
-7. Effective STL-中文版
-8. 深入理解C++11新特性解析与应用-中文版
-
-## Java
-
-1. Head First Java-第2版-中文版
-2. 深入理解Java虚拟机：JVM高级特性与最佳实践-第2版-中文版
-
-## Linux Kernel
-
-### 1. Tools
-
-1. Docker容器与容器云-第2版
-2. Learning GNU Emacs-第3版－英文版
-3. 图解HTTP
-
-### 2. 电子科技大学Linux内核技术课程
-
-- 李林老师课件
-   - code
-   - Linux内核01
-   - Linux内核02
-   - Linux内核03
-   - Linux内核04
-   - 内核调试命令
-- 段翰聪老师课件
-   - Intro
-   - Arch_and_Kernels
-   - Process & Threads
-   - Linux Kernel Scheduling Framework Slides
-   - Storage Devices & File_Systems
-
-3. Linux Memory Address Mapping－中文版
-4. Linux内核源代码完全注释－第三版
-5. Unix内核源码剖析－中文版
-6. UNIX环境高级编程－第3版－中文版
-   - UNIX环境高级编程－第３版－英文版
-   - UNIX环境高级编程－第２版－中文版
-7. UNIX编程艺术－中文版
-8. 深入理解Linux内核－第３版－中文版
-   - 深入理解Linux内核－第３版－英文版
-
-## Machine Learning
-
-### 1. DL
-
-- 深度学习500问
-- Bishop Pattern Recognition and Machine Learning－英文版
-- Deep Learning with Python－英文版
-- Grokking Deep Learning－英文版
-- Hands On Reinforcement Learning with Python－英文版
-- ISLR First Printing－英文版
-- Learning From Data－英文版
-- eural Networks and Deep Learning－英文版
-- 模式识别与机器学习－中文版
-- 动手学深度学习－中文版
-- 深度学习入门：基于Python的理论与实现－中文版
-- 神经网络与深度学习-3小时－中文版
-
-### 2. ML
-
-- 凸优化
-   - Adequacy of Solutions－英文版
-   - Convex Optimization－英文版
-   - L1L2-regularization－英文版
-   - Lecture24－英文版
-   - Optimization－英文版
-- Advanced Machine Learning with Python－英文版
-- Mastering Machine Learning with scikitlearn－英文版
-- Python Machine Learning－英文版
-- The Hundred-Page Machine Learning Book－英文版
-- Understanding the Mathematics behind Gradient Descent－英文版
-- 周志华-机器学习－中文版
-- 统计学习方法－中文版
-
-### 3. PL
-
-- learn python the hard way－英文版
-- Python项目开发实战－第2版－中文版
-- 利用Python进行数据分析－中文版
-- 《笨办法学 Python》－第4版－中文版
-
-
-4. R-intro－英文版
-5. 普林斯顿微积分读本－中文版
-6. 集体智慧编程中文版－中文版
-
-## OS
-
-1. Assembly
-   - 《汇编语言(第3版) 》王爽著－中文版
-   - 《汇编语言王爽(第2版)》课后答案－中文版
-2. 操作系统share
-   - Buddy System及应用
-   - linux段页存储
-   - Seminar2.2
-   - Unix OS的PCB分析
-   - Unix PCB structure and queue discilpine
-   - Unix PCB structure and queue discilpine
-   - Unix进程死锁解决策略
-   - unix进程调度策略
-   - 操作系统2.3
-   - 中断处理程序流程图(do_IRQ)
-3. 30天自制操作系统－中文版
-4. ORANGE'S 一个操作系统的实现－中文版
-5. Understanding_ELF－中文版
-6. minix－英文版
-7. os-dev－英文版
-8. x86汇编语言 从实模式到保护模式－中文版
-9. 从零开始写一个简单的操作系统－中文版
-10. 现代操作系统 - 第3版－中文版
-11. 自己动手写操作系统 - 完全版 －中文版
-
-## Security
-
-1. 会议时间
-2. 现代密码学基础－中文版
+.
+├── Algorithm
+│   ├── Algorithms v4.pdf
+│   └── 算法图解.pdf
+├── Compiler
+│   ├── Parsing Techniques--a practical guide.pdf
+│   ├── 编译原理 龙书 第2版.pdf
+│   ├── 自制编译器.pdf
+│   └── 自己动手写编译器、链接器.pdf
+├── Cpp
+│   ├── C
+│   │   ├── ASCII字符表.jpg
+│   │   ├── C专家编程.pdf
+│   │   ├── C语言标准.pdf
+│   │   ├── C陷阱与缺陷.pdf
+│   │   ├── Learn C the Hard Way.pdf
+│   │   ├── 啊哈C语言书.pdf
+│   │   └── 明解C语言  中级篇.pd
+│   └── Cpp
+│       ├── Accelerated C++ 简体中文版 .pdf
+│       ├── C++ Primer Plus 第5版 中文版.pdf
+│       ├── C++ STL源码剖析 侯捷版本.pdf
+│       ├── C++ Templates 简体中文版.pdf
+│       ├── C++标准程序库.pdf
+│       ├── C++编程思想[第一卷].pdf
+│       ├── C++编程思想[第二卷].pdf
+│       └── Effective STL 简体中文版.pdf
+├── Java
+│   ├── Head First Java-第2版 中文完整高清版.pdf
+│   └── 深入理解Java虚拟机：JVM高级特性与最佳实践.pdf
+├── LinuxKernel
+│   ├── Advanced Programming in the UNIX Environment_Third Edition.pdf
+│   ├── Linux内存地址映射.pdf
+│   ├── Linux内核源代码完全注释 v3 带标签.pdf
+│   ├── tool
+│   │   ├── Docker容器与容器云 第2版.pdf
+│   │   ├── Learning GNU Emacs_Third Edition.pdf
+│   │   └── 图解HTTP.epub
+│   ├── Understanding the Linux Kernel_3rd Edition.pdf
+│   ├── Unix内核源码剖析.pdf
+│   ├── UNIX环境高级编程 第2版.pdf
+│   ├── UNIX 环境高级编程 第3版.pdf
+│   ├── UNIX编程艺术.pdf
+│   ├── 深入理解Linux内核 完整版.pdf
+│   └── 电子科大Linux内核技术课程
+│       ├── 李林_Part
+│       │   ├── code
+│       │   │   ├── 1
+│       │   │   │   ├── 1.1
+│       │   │   │   │   ├── PrintingDriver
+│       │   │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   │   ├── Makefile
+│       │   │   │   │   │   └── ToolFunctions.h
+│       │   │   │   │   └── UserApp
+│       │   │   │   │       └── main.cpp
+│       │   │   │   └── 1.2
+│       │   │   │       ├── DriverFileOperations.c
+│       │   │   │       ├── DriverFileOperations.h
+│       │   │   │       ├── DriverMain.c
+│       │   │   │       ├── DriverMain.h
+│       │   │   │       ├── Makefile
+│       │   │   │       └── ToolFunctions.h
+│       │   │   ├── 2
+│       │   │   │   ├── 2.1
+│       │   │   │   │   ├── PrintingDriver
+│       │   │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   │   ├── IoCtlSupport.h
+│       │   │   │   │   │   ├── Makefile
+│       │   │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   │   └── ToolFunctions.h
+│       │   │   │   │   └── Userapp
+│       │   │   │   │       └── main.cpp
+│       │   │   │   ├── 2.10
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 2.2
+│       │   │   │   │   ├── PrintingDriver
+│       │   │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   │   ├── Makefile
+│       │   │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   │   └── ToolFunctions.h
+│       │   │   │   │   └── UserApp
+│       │   │   │   │       └── main.cpp
+│       │   │   │   ├── 2.3
+│       │   │   │   │   ├── PrintingDriver
+│       │   │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   │   ├── Makefile
+│       │   │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   │   └── ToolFunctions.h
+│       │   │   │   │   └── UserApp
+│       │   │   │   │       └── main.cpp
+│       │   │   │   ├── 2.4
+│       │   │   │   │   ├── PrintingDriver
+│       │   │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   │   ├── Makefile
+│       │   │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   │   └── ToolFunctions.h
+│       │   │   │   │   └── UserApp
+│       │   │   │   │       └── main.cpp
+│       │   │   │   ├── 2.5
+│       │   │   │   │   ├── PrintingDriver
+│       │   │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   │   ├── Makefile
+│       │   │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   │   └── ToolFunctions.h
+│       │   │   │   │   └── UserApp
+│       │   │   │   │       └── main.cpp
+│       │   │   │   ├── 2.6
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 2.7
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 2.8
+│       │   │   │   │   └── PageOperations.h
+│       │   │   │   └── 2.9
+│       │   │   │       ├── DriverFileOperations.c
+│       │   │   │       ├── DriverFileOperations.h
+│       │   │   │       ├── DriverMain.c
+│       │   │   │       ├── DriverMain.h
+│       │   │   │       ├── Makefile
+│       │   │   │       ├── ToolFunctions.c
+│       │   │   │       └── ToolFunctions.h
+│       │   │   ├── 3
+│       │   │   │   ├── 3.1
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.10
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.11
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.12
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   ├── ToolFunctions.h
+│       │   │   │   │   └── UserApp
+│       │   │   │   │       └── main.cpp
+│       │   │   │   ├── 3.13
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.14
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.2
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.3
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.4
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.5
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.6
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.7
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   ├── 3.8
+│       │   │   │   │   ├── DriverFileOperations.c
+│       │   │   │   │   ├── DriverFileOperations.h
+│       │   │   │   │   ├── DriverMain.c
+│       │   │   │   │   ├── DriverMain.h
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   ├── ToolFunctions.c
+│       │   │   │   │   └── ToolFunctions.h
+│       │   │   │   └── 3.9
+│       │   │   │       ├── DriverFileOperations.c
+│       │   │   │       ├── DriverFileOperations.h
+│       │   │   │       ├── DriverMain.c
+│       │   │   │       ├── DriverMain.h
+│       │   │   │       ├── Makefile
+│       │   │   │       ├── ToolFunctions.c
+│       │   │   │       └── ToolFunctions.h
+│       │   │   └── 4
+│       │   │       ├── 4.1
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── IoCtlSupport.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.10
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   ├── ToolFunctions.h
+│       │   │       │   └── UserApp
+│       │   │       │       └── main.cpp
+│       │   │       ├── 4.11
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.12
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.13
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   ├── ToolFunctions.h
+│       │   │       │   ├── UserApp
+│       │   │       │   │   └── main.cpp
+│       │   │       │   ├── VMallocSpaceMangement.c
+│       │   │       │   └── VMallocSpaceMangement.h
+│       │   │       ├── 4.14
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   ├── ToolFunctions.h
+│       │   │       │   ├── UserApp
+│       │   │       │   │   └── main.cpp
+│       │   │       │   ├── VMallocSpaceMangement.c
+│       │   │       │   └── VMallocSpaceMangement.h
+│       │   │       ├── 4.15
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.16
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.17
+│       │   │       │   └── vfree.c
+│       │   │       ├── 4.18
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.19
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.2
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.3
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.4
+│       │   │       │   └── virt_addr_valid.c
+│       │   │       ├── 4.5
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.6
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.7
+│       │   │       │   ├── DriverFileOperations.c
+│       │   │       │   ├── DriverFileOperations.h
+│       │   │       │   ├── DriverMain.c
+│       │   │       │   ├── DriverMain.h
+│       │   │       │   ├── Makefile
+│       │   │       │   ├── ToolFunctions.c
+│       │   │       │   └── ToolFunctions.h
+│       │   │       ├── 4.8
+│       │   │       │   └── find_hole.c
+│       │   │       └── 4.9
+│       │   │           └── alloc_pages.c
+│       │   ├── Linux内核01.pptx
+│       │   ├── Linux内核02.pptx
+│       │   ├── Linux内核03.pptx
+│       │   ├── Linux内核04.pptx
+│       │   └── 内核调试命令.txt
+│       └── 段翰聪_Part
+│           ├── 1_Intro.pptx
+│           ├── 2_Arch_and_Kernels.pptx
+│           ├── 3_process & Threads.pptx
+│           ├── 4_Linux Kernel Scheduling Framework Slides.pptx
+│           └── 5_Storage Devices & File_Systems.pptx
+├── ML
+│   ├── An Introduction to R.pdf
+│   ├── DL
+│   │   ├── An Introduction to Statistical Learning with Applications in R.pdf
+│   │   ├── Deep Learning with Python.pdf
+│   │   ├── Grokking Deep Learning V10.pdf
+│   │   ├── Hands－On_Reinforcement_Learning_with_Python.epub
+│   │   ├── Learning From Data.pdf
+│   │   ├── Pattern Recognition and Machine Learning.pdf
+│   │   ├── PRML_模式识别与机器学习.pdf
+│   │   ├── 动手学深度学习.pdf
+│   │   ├── 深度学习500问
+│   │   │   ├── 深度学习500问-Tan-00目录.pdf
+│   │   │   ├── 深度学习500问-Tan-01第一章 数学基础.pdf
+│   │   │   ├── 深度学习500问-Tan-02第二章 机器学习基础.pdf
+│   │   │   ├── 深度学习500问-Tan-03第三章 深度学习基础.pdf
+│   │   │   ├── 深度学习500问-Tan-04第四章 经典网络.pdf
+│   │   │   ├── 深度学习500问-Tan-05第五章 卷积神经网络（CNN）.pdf
+│   │   │   ├── 深度学习500问-Tan-06第六章 循环神经网络（RNN）.pdf
+│   │   │   ├── 深度学习500问-Tan-07第七章 目标检测.pdf
+│   │   │   ├── 深度学习500问-Tan-08第八章 图像分割.pdf
+│   │   │   ├── 深度学习500问-Tan-09第九章 强化学习.pdf
+│   │   │   ├── 深度学习500问-Tan-10第十章 迁移学习.pdf
+│   │   │   ├── 深度学习500问-Tan-13第十三章 优化算法.pdf
+│   │   │   ├── 深度学习500问-Tan-14第十四章 超参数调整.pdf
+│   │   │   ├── 深度学习500问-Tan-15第十五章 正则化.pdf
+│   │   │   ├── 深度学习500问-Tan-16参考文献.pdf
+│   │   │   └── 目录预览.pdf
+│   │   ├── 深度学习入门：基于Python的理论与实现.pdf
+│   │   ├── 神经网络与深度学习-3小时.pptx
+│   │   └── 神经网络与深度学习.pdf
+│   ├── ML
+│   │   ├── Advanced Machine Learning with Python.pdf
+│   │   ├── Mastering Machine Learning with scikitlearn.pdf
+│   │   ├── Python Machine Learning.pdf
+│   │   ├── The Hundred-Page Machine Learning Book.pdf
+│   │   ├── Understanding the Mathematics behind Gradient Descent_.pdf
+│   │   ├── 凸优化
+│   │   │   ├── Adequacy of Solutions.pdf
+│   │   │   ├── Convex Optimization.pdf
+│   │   │   ├── L1L2-regularization.pdf
+│   │   │   ├── Lecture24.pdf
+│   │   │   └── Optimization.pdf
+│   │   ├── 机器学习 周志华.pdf
+│   │   └── 统计学习方法.pdf
+│   ├── PL
+│   │   ├── learn python the hard way.pdf
+│   │   ├── Python项目开发实战 第2版 完整高清版 带书签 .pdf
+│   │   ├── 利用Python进行数据分析.pdf
+│   │   └── 笨办法学 Python 第4版.pdf
+│   ├── 普林斯顿微积分读本.pdf
+│   └── 集体智慧编程.pdf
+├── OS
+│   ├── 30天自制操作系统.pdf
+│   ├── Assembly
+│   │   ├── 汇编语言王爽 第2版 课后答案.pdf
+│   │   └── 汇编语言 第3版 王爽著.pdf
+│   ├── ELF 格式解析.pdf
+│   ├── Minix File System.pdf
+│   ├── ORANGE’S：一个操作系统的实现 高清晰版.pdf
+│   ├── Writing a Simple Operating System from Scratch.pdf
+│   ├── x86汇编语言  从实模式到保护模式.pdf
+│   ├── 操作系统share
+│   │   ├── Buddy System及应用.pptx
+│   │   ├── linux段页存储.pptx
+│   │   ├── Seminar2.2.pptx
+│   │   ├── Unix OS的PCB分析.pptx
+│   │   ├── Unix PCB structure and queue discilpine.ppsx
+│   │   ├── Unix进程死锁解决策略.pptx
+│   │   ├── unix进程调度策略.pptx
+│   │   ├── 中断处理程序流程图(do_IRQ).doc
+│   │   └── 操作系统2.3.pptx
+│   ├── 现代操作系统 第3版.pdf
+│   └── 自己动手写操作系统 完全版.pdf
+├── README.md
+└── Security
+    ├── 会议时间.xlsx
+    └── 现代密码学基础.pdf

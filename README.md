@@ -22,7 +22,7 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 │   │   ├── C陷阱与缺陷.pdf
 │   │   ├── Learn C the Hard Way.pdf
 │   │   ├── 啊哈C语言书.pdf
-│   │   └── 明解C语言  中级篇.pd
+│   │   └── 明解C语言  中级篇.pdf
 │   └── Cpp
 │       ├── Accelerated C++ 简体中文版 .pdf
 │       ├── C++ Primer Plus 第5版 中文版.pdf
@@ -31,7 +31,8 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 │       ├── C++标准程序库.pdf
 │       ├── C++编程思想[第一卷].pdf
 │       ├── C++编程思想[第二卷].pdf
-│       └── Effective STL 简体中文版.pdf
+│       ├── Effective STL 简体中文版.pdf
+│       └── 现代 C++ 教程：高速上手 C++.pdf
 ├── Java
 │   ├── Head First Java-第2版 中文完整高清版.pdf
 │   └── 深入理解Java虚拟机：JVM高级特性与最佳实践.pdf
@@ -500,9 +501,9 @@ A repository for collecting books， about C, C plus plus, Linux Kernel, Compile
 │   │   └── 操作系统2.3.pptx
 │   ├── 现代操作系统 第3版.pdf
 │   └── 自己动手写操作系统 完全版.pdf
-├── Security
-|   ├── 会议时间.xlsx
-|   └── 现代密码学基础.pdf
-└── README.md
+├── README.md
+└── Security
+    ├── 会议时间.xlsx
+    └── 现代密码学基础.pdf
 
 ```

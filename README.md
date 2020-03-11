@@ -1,6 +1,6 @@
 # ebooks
 
-A repository for collecting books， about C, C plus plus, Linux Kernel, Compiler, OS, Algorithm, ML and DL
+A repository for  ebooks， including C, C plus plus, Linux Kernel, Compiler, OS, Algorithm, Security, ML and DL
 
 整个文件的结构将以下面形式展现
 
